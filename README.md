@@ -8,7 +8,15 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 - Which countries are Rockbuster customers based in?
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
+## Tools Used:
+- SQL - PostgreSQL 14, pgAdmin 4 v7.3
+- DbVisualizer - 23.2.2 for generating the ERD
+- Tableau Public - v2023.2 for visualization
+- Powerpoint - for reporting
 ## Data Set:
 The data set used for this project is fictional and contains information about Rockbuster's inventory, customers, and payments, among other things.
 - [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - [Download the Data Dictionary](https://github.com/sanjukta-de/Rockbuster-Stealth-Movie-Rental-Project-using-SQL/blob/main/Data_Dictionary.pdf)
+## Entity Relationship Diagram(ERD):
+[ERD image]
+
