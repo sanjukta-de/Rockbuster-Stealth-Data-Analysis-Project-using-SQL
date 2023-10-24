@@ -18,5 +18,5 @@ The data set used for this project is fictional and contains information about R
 - [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - [Download the Data Dictionary](https://github.com/sanjukta-de/Rockbuster-Stealth-Movie-Rental-Project-using-SQL/blob/main/Data_Dictionary.pdf)
 ## Entity Relationship Diagram(ERD):
-[ERD image]
+![ERD image](https://github.com/sanjukta-de/Rockbuster-Stealth-Movie-Rental-Project-using-SQL/blob/main/ERD.png)
 
